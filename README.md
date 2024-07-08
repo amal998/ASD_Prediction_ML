@@ -21,8 +21,7 @@ The following machine learning algorithms were evaluated in this study:
 - Support Vector Machine (SVM)
 - k-Nearest Neighbors (k-NN)
 - Naive Bayes
-- Gradient Boosting
-- XGBoost
+- Gradient Boosting (XGBoost)
   
 
 ## Results
